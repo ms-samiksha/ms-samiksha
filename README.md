@@ -23,14 +23,15 @@
 
 ### 🌱 I’m currently learning:
 
-- Deep Learning, Data Science  
-- System Design, Full-Stack App Development  
+-  Data Science  
+- Deep learning
+- ML & Computer AI visions
 
 ---
 
 ### 📄 My Resume:
 
-- [Click to View/Download Resume](https://github.com/ms-samiksha/ms-samiksha/blob/main/resumef.pdf)
+- [Click to View/Download Resume](https://github.com/ms-samiksha/ms-samiksha/raw/main/resumef.pdf)
 
 ---
 
@@ -65,12 +66,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms-samiksha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-samiksha&layout=compact&langs_count=8&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ms-samiksha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-samiksha&layout=compact&langs_count=8&theme=dracula" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-samiksha&theme=dracula" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-samiksha&theme=dracula" height="150" />
 </div>
 
 ---
@@ -87,7 +88,4 @@
 </p>
 
 ---
-
-<img align="right" height="150" src="https://media.tenor.com/ZqkU7IqjzF8AAAAC/cute-cat.gif" alt="Cute coding cat" />
-
 
