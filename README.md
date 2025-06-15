@@ -83,11 +83,3 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
-
-### 🐍 Contributions Flow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ms-samiksha/ms-samiksha/output/snake.svg" alt="snake gif" />
-</p>
