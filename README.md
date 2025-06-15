@@ -30,7 +30,7 @@
 
 ### 📄 My Resume:
 
-- [Click to View/Download Resume](https://github.com/ms-samiksha/ms-samiksha/raw/main/resumef.pdf)
+- [Click to View/Download Resume](https://github.com/ms-samiksha/ms-samiksha/blob/main/resumef.pdf)
 
 ---
 
@@ -65,13 +65,13 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ms-samiksha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-samiksha&layout=compact&langs_count=8&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ms-samiksha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-samiksha&layout=compact&langs_count=8&theme=dracula" height="180" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-samiksha&theme=dracula" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-samiksha&theme=dracula" height="180" />
+</div>
 
 ---
 
