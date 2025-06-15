@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha</h1>
-<h3 align="center">Aspiring ML + Data Science Engineer | Full Stack Explorer | Dreamer 💭</h3>
+<h3 align="center">Exploring the world through data, and shaping it with machine learning</h3>
 
 ###
 
