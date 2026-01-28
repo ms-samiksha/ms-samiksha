@@ -13,31 +13,27 @@
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 👁️ Real-Time Vision–Language Assistive System
-🔗 https://github.com/ms-samiksha/vision-language-assistive-system  
-Offline, real-time scene understanding system for visually impaired users using Computer Vision + Vision-Language models.
-
-### 🤖 TDS Quiz Auto-Solver (Autonomous Agent)
+### TDS Quiz Auto-Solver (Autonomous Agent)
 🔗 https://github.com/ms-samiksha/tds-project-2  
 Autonomous quiz-solving system using FastAPI + LangGraph + Playwright + tool-based execution.
 
-### 🎮 Rock Paper Scissors AI (Webcam + CV)
+### Rock Paper Scissors AI (Webcam + CV)
 🔗 https://github.com/ms-samiksha/rock-paper-scissors-  
 Gesture recognition game using OpenCV + a custom-trained neural network.
 
-### 📊 SaaS MRR Growth Analysis (2024)
+### SaaS MRR Growth Analysis (2024)
 🔗 https://github.com/ms-samiksha/saas-mrr-analysis  
 Business-focused analysis of quarterly MRR growth vs industry benchmark with insights + recommendations.
 
-### 🏢 Employee Performance Analysis (Report Generator)
+### Employee Performance Analysis (Report Generator)
 🔗 https://github.com/ms-samiksha/employee-performance-analysis  
 Python-based analysis with visualization + auto-generated HTML report.
 
 ---
 
-## 🧠 Skills & Interests
+## Skills & Interests
 - Machine Learning & Deep Learning
 - Computer Vision (OpenCV, CNNs)
 - Data Analysis (Pandas, Visualization)
@@ -79,7 +75,7 @@ Python-based analysis with visualization + auto-generated HTML report.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:ms.samiksha122005@gmail.com">
